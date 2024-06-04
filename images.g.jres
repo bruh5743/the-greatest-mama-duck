@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAA8P8PAAAAAADwVf8AAAAAAP9VVQ8AAAAAX19V9QAA8P9f9V/1AAD/VV9VX/UA8F9V9VVf9QDw1dFV/1X1APAV/1VVVfUA8PW/RVVV9QDwVVVEVVX1APBVVURVVfUAAP9ERFVV/wAA8E9EX1UPAAAA8PTw/wAAAAAADwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mr Quack"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAACwAAAAAAAAAEALuwsAAADPRLRVvQALsE1EVFW1C7Vb1U1UVVULW1tVTVRVVQywW/FbVFVVDABb8V9VVdUMAFsdXVW93QwAu1VVvVXbDACwW1VbVdwMAAC721vV3AwAAACwXcW9DAAAALDd3M0AAAAAsL29DAAAAAAAu8wAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Baby duck"
+    },
+    "song1": {
+        "data": "0078000408070101001c000f05001202c102c201000405002800000064002800030500060000040c000400080001190c001400011b",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
